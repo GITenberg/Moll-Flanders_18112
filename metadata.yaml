@@ -29,6 +29,8 @@ creator:
     - http://www.gutenberg.org/browse/authors/j#a26500
     - http://en.wikipedia.org/wiki/Daniel_Defoe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18112#Moll-Flanders
 gutenberg_bookshelf:
 - FR Littérature
 - Banned Books from Anne Haight's list
