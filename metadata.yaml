@@ -1,0 +1,56 @@
+_repo: Moll-Flanders_18112
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Schwob, Marcel
+    aliases:
+    - Schwob, Mayer Andre Marcel
+    - Schwob, Mayer André Marcel
+    - Loyson-Bridet
+    birthdate: 1867
+    deathdate: 1905
+    gutenberg_agent_id: '7814'
+    url: http://www.gutenberg.org/2009/agents/7814
+    wikipedia: http://en.wikipedia.org/wiki/Marcel_Schwob
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Defoe, Daniel
+    aliases:
+    - Defo, Daniel
+    - Moreton, Andrew
+    - John, Gabriel
+    deathdate: 1731
+    gutenberg_agent_id: '204'
+    url: http://www.gutenberg.org/2009/agents/204
+    wikipedia:
+    - http://www.gutenberg.org/browse/authors/j#a26500
+    - http://en.wikipedia.org/wiki/Daniel_Defoe
+description: ''
+gutenberg_bookshelf:
+- FR Littérature
+- Banned Books from Anne Haight's list
+gutenberg_issued: '2006-04-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18112'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women -- England -- Fiction'
+- !lcc 'PR'
+- !lcsh 'London (England) -- Fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Virginia -- Fiction'
+- !lcsh 'Prostitutes -- Fiction'
+- !lcsh 'Children of prisoners -- Fiction'
+- !lcsh 'Criminals -- Fiction'
+- !lcsh 'Repentance -- Fiction'
+- !lcsh 'Picaresque literature'
+- !lcsh 'British -- Virginia -- Fiction'
+title: Moll Flanders
+url: http://www.gutenberg.org/ebooks/18112
